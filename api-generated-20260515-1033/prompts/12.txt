@@ -1,0 +1,25 @@
+Create one finished portrait manga LP image, 1024x1536.
+Use the reference character sheet if provided, and preserve character identity.
+
+GLOBAL STORY:
+A manga landing page for Tsuginome AI practical school. Target: working freelancers in Osaka/Kansai who already use ChatGPT or Gemini but are not yet using Claude Code / Codex to create deliverables. Core message: Claude Code and Codex are not optional anymore; freelancers without urgency about them are not the target. But do not overhype. Show skepticism, fear, online consultation, practical explanation, actual working tools, curriculum, price, caveats, selective trial opportunity, and final LINE CTA. CTA is LINE registration for a free bonus: AI実務化スターターキット.
+
+CHARACTER BIBLE:
+Recurring characters. Keep them consistent on every page.
+主人公: 佐伯ミナミ, 34歳女性フリーランス. Shoulder-length straight black hair, beige casual blazer, white inner shirt, slim build, laptop bag, adult realistic business-manga look. Expressions move from tired/anxious to skeptical to focused to hopeful. No childish mascot energy.
+メンター: 桐谷さん, male in early 40s, Tsuginome practical AI operator. Navy jacket, white shirt, black rectangular glasses, short black hair, calm serious face, holds tablet or pen. Not flashy, not celebrity instructor.
+Occasional cohort members: adult freelancers only, subtle background, not sidekicks.
+Visual style: Japanese vertical webtoon / Piccoma-like adult business manga, real panel divisions, generous white gutters, speech bubbles, closeups, laptop/smartphone cutaways, modern Osaka business coworking mood but no tourist symbols, no takoyaki, no Osaka Castle, no Tsutenkaku, no Hanshin colors, no mascot.
+Important: Japanese text must be large, clean, readable, and baked into the image. Use only the exact short Japanese copy specified for each page. Do not add extra unreadable pseudo text.
+
+CURRENT PAGE 12: 4週間カリキュラム
+Page role: Clean curriculum offer page but manga-styled, with Minami and mentor beside roadmap cards. Not too much text; large readable Japanese.
+Exact Japanese text to include, large and legible only:
+4週間で触れる側へ / Week1 最初の壁を越える / Week2 提案・資料・LP改善 / Week3 動くミニツール制作 / Week4 レビューと納品品質
+
+Manga layout requirements:
+- Real vertical manga/webtoon page, not a flat poster.
+- Use 3 to 6 panels with clear gutters, speech bubbles, closeups, device cutaways, and emotional pacing.
+- Baked-in Japanese text only; do not add page numbers, section labels, lorem ipsum, fake gibberish, watermarks, or extra logos.
+- Adult Japanese business manga style, clean line art, soft screen tones, modern UI, high readability on smartphone.
+- Keep protagonist Minami and mentor visually consistent with the character sheet and bible.

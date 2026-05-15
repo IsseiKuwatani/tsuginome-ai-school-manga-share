@@ -1,0 +1,10 @@
+Create a character reference sheet for a Japanese adult business manga LP.
+Recurring characters. Keep them consistent on every page.
+主人公: 佐伯ミナミ, 34歳女性フリーランス. Shoulder-length straight black hair, beige casual blazer, white inner shirt, slim build, laptop bag, adult realistic business-manga look. Expressions move from tired/anxious to skeptical to focused to hopeful. No childish mascot energy.
+メンター: 桐谷さん, male in early 40s, Tsuginome practical AI operator. Navy jacket, white shirt, black rectangular glasses, short black hair, calm serious face, holds tablet or pen. Not flashy, not celebrity instructor.
+Occasional cohort members: adult freelancers only, subtle background, not sidekicks.
+Visual style: Japanese vertical webtoon / Piccoma-like adult business manga, real panel divisions, generous white gutters, speech bubbles, closeups, laptop/smartphone cutaways, modern Osaka business coworking mood but no tourist symbols, no takoyaki, no Osaka Castle, no Tsutenkaku, no Hanshin colors, no mascot.
+Important: Japanese text must be large, clean, readable, and baked into the image. Use only the exact short Japanese copy specified for each page. Do not add extra unreadable pseudo text.
+Show 2 main recurring characters with front view, half body, 3 expressions each, consistent outfit and colors.
+Labels in Japanese: 佐伯ミナミ / 桐谷さん.
+Clean white background, character sheet, no story panels, no page number. Large readable Japanese labels only.
